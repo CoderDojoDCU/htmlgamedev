@@ -17,6 +17,3 @@ core programming princinples through a cool and fun game dev.
 
 If you would like to try the game check it out at
 
-Play the game
--------------
-http://dojo.hallamor.org/eden/dcu/soccer-game/index.html
